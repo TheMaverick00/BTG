@@ -114,7 +114,7 @@ function addRevealToElements() {
   const selectors = [
     '.section-header', '.why-card', '.value-chip',
     '.pillar-feature', '.contact-item', '.highlight-item', '.footer-links-col',
-    '.about-text-col', '.about-values-col', '.commit-text', '.commit-logo', '.hero-logo-card'
+    '.about-text-col', '.about-values-col', '.team-card', '.commit-text', '.commit-logo'
   ];
 
   selectors.forEach(selector => {
